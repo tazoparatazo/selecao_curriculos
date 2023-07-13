@@ -2,8 +2,6 @@
 
 Primeiro, importamos as bibliotecas necessárias. Usamos os e re para lidar com arquivos e expressões regulares. pandas é usado para estruturar e manipular os dados, PyPDF2 para ler arquivos PDF e google.colab para carregar arquivos no ambiente do Google Colab.
 ```
-python
-Copy code
 import os
 import re
 import pandas as pd
